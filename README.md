@@ -1,3 +1,5 @@
+#ROTIMI DANIEL O. (256706_COMPUTER_SCIENCE)
+
 # Iris Species Classification & Exploratory Data Analysis
 
 An exploratory data analysis (EDA) and machine learning project focused on predicting species in the classic **Iris Dataset** from Kaggle using Python, Pandas, Seaborn, and Scikit-Learn.
